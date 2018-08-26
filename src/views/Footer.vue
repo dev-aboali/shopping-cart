@@ -5,12 +5,9 @@
   </footer>
 
 </template>
-<script>
 
-</scrip>
 <style scoped>
-	#footer{
-		margin-top: 20rem;
-	}
+#footer {
+	margin-top: 20rem;
+}
 </style>
-

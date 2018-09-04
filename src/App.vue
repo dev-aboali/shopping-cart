@@ -4,13 +4,13 @@
   <app-header></app-header>
   <div id="app" class="container my-5">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-4 mb-5">
+        <app-cart></app-cart>
+      </div>
+      <div class="col-md-8 ">
          <app-content></app-content>
       </div>
-   
-    <div class="col-md-4">
-      <app-cart></app-cart>
-    </div>
+      
   </div>
   
   </div>

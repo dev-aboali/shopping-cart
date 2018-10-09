@@ -1,4 +1,5 @@
-# test
+# Shopping Cart
+Simple Shopping cart built on Vue, vuex and Imgur API 
 
 ## Project setup
 ```
